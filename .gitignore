@@ -1,0 +1,10 @@
+
+lambda-code/node_modules/
+
+example/.terraform/
+
+*.tfstate
+
+*.backup
+
+*.zip
